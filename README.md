@@ -22,6 +22,7 @@ As of now, the simple mse loss is calculated to finding the match.
 
 As this is an unsupervised approach, it's hard to find the accuracy, precision or recall values, but the coherence in the scenes can be seen in the trailer created. 
 Almost every scene in the generated trailer has the same level of coherence(i.e. the frames are from same scene and can totally relate to the global context.) 
+Also, there were many frames which were not in the movie itself. For eg:- the starting and the ending part of trailers with the credits scene. 
 
 #### P.S.- The bottom right watarmark is from the software used to merge 2 videos vertically. Above clip - actual trailer, below clip - generated trailer.
 #### The real watermark in the trailer is on the above clip's bottom right corner(apple)
